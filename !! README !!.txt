@@ -12,9 +12,9 @@
    - ระบบรองรับการแสดงผลเป็นภาษาอังกฤษเท่านั้น
 
 ### Module requirements ###
-cv2	    =>  pip install opencv-python
-numpy 	=>  pip install numpy
-PLT	    =>  pip install Pillow
-os	    =>  pip install os-win // ปกติจะติดตั้งมากับ python อยู่แล้ว
+cv2   =>  pip install opencv-python
+numpy =>  pip install numpy
+PLT   =>  pip install Pillow
+os    =>  pip install os-win // ปกติจะติดตั้งมากับ python อยู่แล้ว
 
 *** หากรันไฟล์แล้วกล้องไม่ขึ้นให้ติดตั้ง pip install opencv-contrib-python
